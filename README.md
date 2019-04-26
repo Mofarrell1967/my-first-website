@@ -2,7 +2,12 @@
 
 Welcome!
 
-The website is divided into 3 pages
+This website is designed to test my knowledge so far on the course and apply my learning skills. The site was created 
+using the following technologies:
+
+Cloud9, CLI, Git, GitHub
+
+The site is separated into 3 pages containing the following information which can be accessed using the links at the top of the page.
 
 #### Stream One
 
