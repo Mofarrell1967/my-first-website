@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .card {
-    float: centre;
+    float: left;
     width: 15%;
     margin-left: 44%;
     margin-bottom: 5%
